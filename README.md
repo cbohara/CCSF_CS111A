@@ -1,4 +1,4 @@
-# CCSF CS 111A Intro to Programming: Java (4)
+# CCSF CS 111A Intro to Programming: Java
 
 Lec-70
 
