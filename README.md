@@ -1,12 +1,13 @@
-# CCSF_Intro_to_Java
+# CCSF CS 111A Intro to Programming: Java (4)
 
-CS 111A Intro to Programming: Java (4)
 Lec-70
+
 Credit, Degree Applicable
+
 ADVISE: MATH 60 or MATH 92 or placement in MATH 90
+
 Introduction to computer programming and problem solving. No prior programming experience required. Course concepts include: problem solving techniques, algorithms, program design, control structures, methods, arrays and use of the Java programming language.
-UC/CSU
-C-ID COMP 112
+
 After successful completion of this course, students will be able to:
 
 Outcome 1: Describe the software development life-cycle and the use of algorithms in program design.
